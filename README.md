@@ -8,7 +8,7 @@ Various routes are defined using Express JS. These routes have endpoints for exa
 
 <h3 align="left">Project is built Using:</h3>
 
-![Tech used](https://skillicons.dev/icons?i=js,nodejs,aws,express,postman)
+![Tech used](https://skillicons.dev/icons?i=js,nodejs,aws,dynamodb,express,)
 
 <p align="left">
   <h4>Express Routes endpoint testing using:</h4>
